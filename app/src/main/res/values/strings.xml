@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">bmeg3130</string>
+    <string name="click_to_record">Click icon \nto record</string>
+    <string name="email_to_doc">Email to Doctor</string>
+    <string name="ask_for_help">HELP</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome!"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="submit">Submit</string>
+    <string name="enter_your_email">Enter your Email</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="please_change_your_personal_information">Please change your personal information:</string>
+    <string name="back_to_home">Back to Home</string>
+    <string name="enter_your_phone">Enter Your Phone Num</string>
+    <string name="go_to_website">Search for more</string>
+</resources>
+

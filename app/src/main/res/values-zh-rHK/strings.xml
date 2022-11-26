@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">bmeg3130</string>
+    <string name="click_to_record">點擊儲存</string>
+    <string name="email_to_doc">郵件醫生</string>
+    <string name="ask_for_help">幫助</string>
+</resources>
