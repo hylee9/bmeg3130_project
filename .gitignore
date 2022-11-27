@@ -13,3 +13,7 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+
+# custom email and password
+/app/src/main/java/org/jason/bmeg3130/Utils.java
